@@ -1,2 +1,5 @@
 # hello-world
-My first Repository
+Hello I am Kristina I like GitHub !
+
+
+Bye!
